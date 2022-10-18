@@ -1,0 +1,6 @@
+description: K10 data management platform provides enterprise operations teams an easy-to-use, scalable and secure system for backup/restore, disaster recovery and application mobility of Kubernetes applications.
+icon: https://www.kasten.io/hubfs/Kasten%20logos/logo-kasten.io.svg
+namespace:
+  name: kasten-io
+  editable: false
+parameters:
